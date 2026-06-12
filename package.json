@@ -1,0 +1,13 @@
+{
+  "name": "uccli",
+  "version": "1.0.0",
+  "description": "A simple unit conversion CLI tool",
+  "main": "index.js",
+  "bin": {
+    "uccli": "./index.js"
+  },
+  "keywords": [],
+  "author": "Jqhxnn",
+  "license": "MIT",
+  "type": "commonjs"
+}
