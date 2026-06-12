@@ -9,8 +9,5 @@
   "keywords": [],
   "author": "Jqhxnn",
   "license": "MIT",
-  "type": "commonjs",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "type": "commonjs"
 }
