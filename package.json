@@ -1,5 +1,5 @@
 {
-  "name": "uccli",
+  "name": "@jqhxnn/uccli",
   "version": "1.0.0",
   "description": "A simple unit conversion CLI tool",
   "main": "index.js",
@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Jqhxnn",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
